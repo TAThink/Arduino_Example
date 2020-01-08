@@ -1,3 +1,15 @@
 # 아두이노 예제 코드 목록
 
-- 아두이노 조도 센서 예제 코드 : [예제코드](./photo_resistor/)
+- 조도 센서 예제 : [바로가기](./photo_resistor/)
+- 텍트 스위치 예제 : [바로가기](./tact_switch/)
+- 기울기 스위치 예제 : [바로가기](./tilt_switch/)
+- 능동 부저 예제 : [바로가기](./buzzer_active/)
+- 피에조 부저 예제 : [바로가기](./buzzer_piezo/)
+- 가변 저항 예제 : [바로가기](./potentiometer/)
+- 서보 모터 예제 : [바로가기](./servo_motor/)
+- 온도센서 (LM35) 예제 : [바로가기](./lm35_temperature_sensor/)
+- 7세그먼트 예제 : [바로가기](./seven_segment/)
+- 네오픽셀 예제 : [바로가기](./neoPixel/)
+- LCD 예제 : [바로가기](./lcd1602_i2c/)
+- 초음파센서 예제 : [바로가기](./ultrasonic_sensor/)
+- 블루투스 (HM10) 예제 : [바로가기](./hm10_serial/)
